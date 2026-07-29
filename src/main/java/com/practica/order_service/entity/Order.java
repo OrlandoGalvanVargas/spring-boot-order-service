@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
+// File entity to Order
 @Entity
 @Table(name = "orders")
 @Data
